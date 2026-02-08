@@ -3,8 +3,6 @@ Run ollama locally on windows
 2. Run a very small slm model on a local PC:
   ollama.exe run gemma:2b
 4. Use python to connect with gemma:2b
-5.
-```markdown
 ```python
 import requests
 
